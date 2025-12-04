@@ -52,3 +52,4 @@ w: 119
 x: 120
 y: 121
 z: 122
+ord() - it is used to get the ascii value of a letter
